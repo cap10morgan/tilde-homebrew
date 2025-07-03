@@ -1,4 +1,4 @@
 {:tilde/plugin
  {:type       :input/executable
-  :executable "tilde-homebrew"}}
+  :executable {:path "tilde-homebrew"}}}
  
